@@ -41,7 +41,7 @@ Important:
 SOLUTION
 ---------------------
 
-Please note that you should edit the .\src\main\resources\application.yml file in order
+Please note that you may have to edit the .\src\main\resources\application.yml file in order
 to properly set up Mysql DB access.
 
 Tech Stack
