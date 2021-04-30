@@ -1,6 +1,6 @@
 # cella
 
-##Task Description:
+Task Description:
 ---------------------
 Create a simple application that allows to manage products.
 It should consist of:
@@ -35,8 +35,11 @@ Important:
 - Examples of Unit tests would be a plus (no need for full coverage)
 - DB should contain only one table (Product). Thinks of required indexes
 - The code should be well-readable
-——————————
+
+
+
 SOLUTION
+---------------------
 
 Please note that you should edit the .\src\main\resources\application.yml file in order
 to properly set up Mysql DB access.
