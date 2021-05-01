@@ -56,9 +56,11 @@ Tech Stack
 In order to run the app it is possible to use mvn commands (Mysql or H2 DB options)
    
 For mysql:
+
     mvn spring-boot:run -Dspring-boot.run.profiles=local
 
 For H2:
+
     mvn spring-boot:run -Dspring-boot.run.profiles=test
 
 It is possible to check the health of the service by running the command below:
@@ -68,8 +70,8 @@ It is possible to check the health of the service by running the command below:
 For getting a code coverage report:
 
 1) Run:
-
-   mvn clean package
+    
+    mvn clean package
 
 2) Open the report file below:
 
